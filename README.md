@@ -6,6 +6,7 @@ To give people an estimate of how much they need based on their individual healt
 _ Data source _: https://www.kaggle.com/noordeen/insurance-premium-prediction
 
 Approach:
+
 Loading the dataset using Pandas and performing basic checks like the data type of each column and any missing values.
 Performed Exploratory data analysis:
 Visualized each predictor or independent feature with the target feature and found that there's a direct proportionality between cement and the target feature while there's an inverse proportionality between water and the target feature.
@@ -25,3 +26,4 @@ Deployed the Gradient Boosting regressor model using Flask, which works in the b
 So, now we can find the insurance premium quickly by just passing the mentioned details as input to the web application 
 
 Screenshots
+![deployment](https://github.com/RobinMitra30/Premium_Prediction/assets/115272817/af01332a-77a2-4324-836f-4ca236993488)
