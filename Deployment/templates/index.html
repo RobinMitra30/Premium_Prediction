@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insurance Premium Predictor</title>
+    <link rel="stylesheet" href = "style.css">
+</head>
+<body>
+    <h1>Insurance Premium Predictor</h1>
+    <form action="/predict" method="post">
+        <label for="age">Age:</label>
+        <input type="text" name="age" required><br>
+
+        <label for="sex">Sex:</label>
+        <select name="sex" required>
+        <option value="female">Female</option>
+        <option value="male">Male</option>
+        </select><br>
+
+        <label for="bmi">BMI:</label>
+        <input type="text" name="bmi" required><br>
+
+        <label for="children">Number of Children:</label>
+        <select name="children" required>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select><br>
+        
+        <label for="smoker">Smoker:</label>
+        <select name="smoker" required>
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+        </select><br>
+
+        <label for="region">Region:</label>
+        <select name="region" required>
+            <option value="northeast">Northeast</option>
+            <option value="northwest">Northwest</option>
+            <option value="southeast">Southeast</option>
+            <option value="southwest">Southwest</option>
+        </select><br>
+
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>
