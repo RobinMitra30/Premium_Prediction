@@ -29,4 +29,6 @@ So, now we can find the insurance premium quickly by just passing the mentioned 
 Screenshots
 ![deployment](https://github.com/RobinMitra30/Premium_Prediction/assets/115272817/af01332a-77a2-4324-836f-4ca236993488)
 
+Technologies and Tools are used
+![tools for ml](https://github.com/RobinMitra30/Premium_Prediction/assets/115272817/5bbb0541-cfa5-49c3-8e44-22a16e6eb7b2)
 
