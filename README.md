@@ -1,6 +1,7 @@
 ### END TO END MACHINE LEARNING PROJECT ###
 
 Insurance Premium Prediction:
+
 To give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. I am considering variables as age, sex, BMI, number of children, smoking habits and living region to predict the premium. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective part.
 
 _ Data source _: https://www.kaggle.com/noordeen/insurance-premium-prediction
@@ -27,3 +28,5 @@ So, now we can find the insurance premium quickly by just passing the mentioned 
 
 Screenshots
 ![deployment](https://github.com/RobinMitra30/Premium_Prediction/assets/115272817/af01332a-77a2-4324-836f-4ca236993488)
+
+
