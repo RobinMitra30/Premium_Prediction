@@ -49,4 +49,4 @@ URL: https://drive.google.com/file/d/1ZAOU0XJyzuWDjQrtirGMwW6KfuBe6_Oz/view?usp=
 URL: https://drive.google.com/file/d/1mUhSMEdBa1tmmXOWKKuG5GAVYOWGH0Ei/view?usp=drive_link
 
 ## DEMO TUTORIAL OF THE WHOLE PROJECT
-URL :
+URL : https://youtu.be/kjeMSLBSiJU
