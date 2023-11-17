@@ -4,7 +4,7 @@
 
 To give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. I am considering variables as age, sex, BMI, number of children, smoking habits and living region to predict the premium. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective part.
 
-_ Data source _: https://www.kaggle.com/noordeen/insurance-premium-prediction
+URL: https://www.kaggle.com/noordeen/insurance-premium-prediction
 
 ## Approach:
 
@@ -29,11 +29,24 @@ So, now we can find the insurance premium quickly by just passing the mentioned 
 ## Screenshots
 ![deployment](https://github.com/RobinMitra30/Premium_Prediction/assets/115272817/af01332a-77a2-4324-836f-4ca236993488)
 
-## HIGH-LEVEL DESIGN
-
-
-
 
 ## Technologies and Tools are used
 ![tools for ml](https://github.com/RobinMitra30/Premium_Prediction/assets/115272817/5bbb0541-cfa5-49c3-8e44-22a16e6eb7b2)
 
+## HIGH-LEVEL DESIGN
+URL: https://drive.google.com/file/d/1iLeyWjZFbgtB9nuHSq42FyaiUbygUTYq/view?usp=drive_link
+
+## LOW-LEVEL DESIGN
+URL: https://drive.google.com/file/d/169hq6scWCeym9tbTEPO8eXPaNhH2nkXR/view?usp=drive_link
+
+## ARCHITECT DOC
+URL: https://drive.google.com/file/d/1zpLX6EQ7dS-2kd2IpRiOJRxhEw3AHXyI/view?usp=drive_link
+
+## DETAIL PROJECT DOCUMENT
+URL: https://drive.google.com/file/d/1ZAOU0XJyzuWDjQrtirGMwW6KfuBe6_Oz/view?usp=drive_link
+
+## WIREFRAME DOCUMENT
+URL: https://drive.google.com/file/d/1mUhSMEdBa1tmmXOWKKuG5GAVYOWGH0Ei/view?usp=drive_link
+
+## DEMO TUTORIAL OF THE WHOLE PROJECT
+URL :
