@@ -5,7 +5,7 @@ import pandas as pd
 
 
 # Load the trained model
-with open('D:\only projects\Machine learning projects\Premium_insurance\Deployment\gbr.pkl', 'rb') as file:
+with open('D:\only projects\Machine learning projects\insurance_predictor\Deployment\gbr.pkl', 'rb') as file:
     model = pickle.load(file)
 
 app = Flask(__name__)
